@@ -1,4 +1,6 @@
 # Techno-Electronics-Store-Analysis
+![logo](https://github.com/rachit7217/Techno-Electronics-Store-Analysis/blob/main/Dashboard%2013%20Techno%20Electronics%20Sales.png)
+
 **Project Summary: Techno Electronics Sales Analysis**
 
 The "Techno Electronics Sales Analysis" project aims to provide a comprehensive overview of sales performance and trends for Techno Electronics through the use of Power BI dashboards. By integrating data from Excel and SQL databases, the project will facilitate data-driven decision-making and enhance business intelligence capabilities.
